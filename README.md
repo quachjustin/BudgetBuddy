@@ -1,1 +1,1 @@
-Web application that helps keep track of spendings! #BudgetBuddy
+Web application that keeps track of spendings #BudgetBuddy
